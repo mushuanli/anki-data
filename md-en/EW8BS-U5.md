@@ -1,8 +1,8 @@
 # 2026年春新译林8下U5词组汇总
 
-| 中文 | -- 英文 -- |
+| 中文 | 英文 |
 | ---- | ---------- |
-| **Introduction&welcome** | -- Introduction&welcome -- |
+| **Introduction&welcome** |
 | 良好的礼仪 | -- good manners -- |
 | 流行；时髦 | -- be in fashion -- |
 | 在英国 | -- in the UK -- |
@@ -33,7 +33,7 @@
 | 到处乱扔垃圾 | -- leave rubbish anywhere -- |
 | 帮忙保持学校干净 | -- help keep the school clean. -- |
 | 在日常生活中 | -- in daily life -- |
-| **Reading** | -- Reading -- |
+| **Reading**  |
 | 入乡随俗 | -- When in Rome,do as the Romans do -- |
 | 短时间内；暂时 | -- for a short time -- |
 | 中英礼仪的异同 | -- the differences and similarities between British and Chinese manners -- |
@@ -79,7 +79,7 @@
 | 在两个国家都向他人表示尊重 | -- show respect for others in both countries. -- |
 | 听到这个我很高兴 | -- I’m pleased to hear that. -- |
 | 处理这些差异 | -- dealing with the differences -- |
-| **Grammar** | -- Grammar -- |
+| **Grammar**  |
 | 环游世界 | -- travel around the world -- |
 | 了解足够多不同文化的礼仪信息 | -- know enough information about the manners of different cultures -- |
 | 充分享受环球旅行 | -- enjoy world travel fully -- |
@@ -120,7 +120,7 @@
 | 再往前走 | -- walk any further -- |
 | 尽管；即使 | -- even though -- |
 | 属于 | -- belonged to -- |
-| **Integration** | -- Integration -- |
+| **Integration** |
 | 注意你的礼仪 | -- mind your manners -- |
 | 受到高度尊重 | -- be highly respected -- |
 | 恭敬地站在雪中等程大师 | -- standing in the snow to wait for Master Cheng respectfully -- |
@@ -163,4 +163,3 @@
 | 匆忙离开 | -- leave in a hurry -- |
 | 觉得我的建议有用 | -- find my advice useful -- |
 
-需要我继续按**相同格式**整理 U6、U7、U8 吗？
